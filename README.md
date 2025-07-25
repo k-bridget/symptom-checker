@@ -13,6 +13,18 @@ This is a frontend health web application that allows users to input their sympt
 # Setup
 
 git clone <repository-url>
+
  cd symptom-checker
+
+ # Usage
+
+ User inputs symptoms (e.g., "I have a fever")
+
+ Clicks on check symptoms and is given health insights, recommendations, follow-up questions and warnings.
+
+ # API Reference
+ 
+This application uses the AI Doctor API. For more information, visit: https://rapidapi.com/bilgisamapi-api2/api/ai-doctor-api-ai-medical-chatbot-healthcare-ai-assistant
+ 
 
 
