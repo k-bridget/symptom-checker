@@ -32,7 +32,7 @@ async function checkSymptoms() {
     headers: {
       'Content-Type': 'application/json',
       'X-RapidAPI-Key': API_KEY,
-      'X-RapidAPI-Host': 'ai-doctor-api-ai-medical-chatbot-healthcare-ai-assistant.p.rapidapi.com'
+      'X-RapidAPI-Host': ' ai-doctor-api-ai-medical-chatbot-healthcare-ai-assistant.p.rapidapi.com'
     },
     body: JSON.stringify({
       message: input,
