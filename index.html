@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title> Symptom Checker</title>
+  <link rel="stylesheet" href="styles/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Symptom Checker 🩺</h1>
+    <p class="subheading">Type your symptoms below to receive possible conditions and helpful advice.</p>
+
+    <textarea id="symptomInput" placeholder="e.g., I have a headache and sore throat..."></textarea>
+    <button onclick="checkSymptoms()">Check Symptoms</button>
+
+    <div id="alert" class="alert"></div>
+    <div id="result" class="result"></div>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Symptom Checker For educational use only. Not a replacement for professional medical advice.</p>
+  </footer>
+
+  <script src="config.js"></script>
+<script src="scripts/script.js"></script>
+
+</body>
+</html>
