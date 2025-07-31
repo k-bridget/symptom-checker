@@ -28,6 +28,16 @@ git clone <repository-url>
  
 This application uses the AI Doctor API. For more information, visit: https://rapidapi.com/bilgisamapi-api2/api/ai-doctor-api-ai-medical-chatbot-healthcare-ai-assistant
 
+# Deployment
+
+docker build -t bridget629/symptom-checker:v1.1
+docker run -p 8080:8080 bridget629/symptom-checker:v1.1
+curl http://localhost:8080
+<img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/89d60ec3-f8ee-482c-b3db-5a991717204b" />
+
+<img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/69e8deb0-e767-4b48-ae14-5255ee26455d" />
+
+
 # Demo video
 
 [https://youtu.be/XNKN7iwHOoY?si=jpD_CzUS6jBBEdQg](url)
