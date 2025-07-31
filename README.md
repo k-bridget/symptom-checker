@@ -16,6 +16,8 @@ git clone <repository-url>
 
  cd symptom-checker
 
+ Open index.html in a browser to use the app locally.
+
  # Usage
 
  User inputs symptoms (e.g., "I have a fever")
@@ -25,6 +27,12 @@ git clone <repository-url>
  # API Reference
  
 This application uses the AI Doctor API. For more information, visit: https://rapidapi.com/bilgisamapi-api2/api/ai-doctor-api-ai-medical-chatbot-healthcare-ai-assistant
+
+# Demo video
+
+[https://youtu.be/XNKN7iwHOoY?si=jpD_CzUS6jBBEdQg](url)
+
+
  
 
 
