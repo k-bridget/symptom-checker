@@ -43,7 +43,7 @@ curl http://localhost:8080
 
 # Demo video
 
-[https://youtu.be/_NfZtR5LyCI?si=89yJaWynO28vTLPO](url)
+https://youtu.be/_NfZtR5LyCI?si=89yJaWynO28vTLPO
 
 
  
