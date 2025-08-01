@@ -30,7 +30,10 @@ This application uses the AI Doctor API. For more information, visit: https://ra
 
 # Deployment
 
-docker build -t bridget629/symptom-checker:v1.1
+docker build -t bridget629/symptom-checker:v1.1  
+
+<img width="1366" height="768" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/6c250635-90d9-446e-a02c-8a76624e697e" />
+
 docker run -p 8080:8080 bridget629/symptom-checker:v1.1
 curl http://localhost:8080
 <img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/89d60ec3-f8ee-482c-b3db-5a991717204b" />
@@ -40,7 +43,7 @@ curl http://localhost:8080
 
 # Demo video
 
-[https://youtu.be/XNKN7iwHOoY?si=jpD_CzUS6jBBEdQg](url)
+[https://youtu.be/_NfZtR5LyCI?si=89yJaWynO28vTLPO](url)
 
 
  
