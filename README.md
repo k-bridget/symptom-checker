@@ -34,8 +34,8 @@ docker build -t bridget629/symptom-checker:v1.1
 
 <img width="1366" height="768" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/6c250635-90d9-446e-a02c-8a76624e697e" />
 
-docker run -p 8080:8080 bridget629/symptom-checker:v1.1
-curl http://localhost:8080
+docker run -p 8085:80 bridget629/symptom-checker:v1.1
+curl http://localhost:8085
 <img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/89d60ec3-f8ee-482c-b3db-5a991717204b" />
 
 <img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/69e8deb0-e767-4b48-ae14-5255ee26455d" />
