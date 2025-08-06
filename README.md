@@ -16,7 +16,7 @@ git clone <repository-url>
 
  cd symptom-checker
 
- Open index.html in a browser to use the app locally.
+ Open index.html in a browser to run the app locally.
 
  # Usage
 
@@ -40,6 +40,15 @@ curl http://localhost:8085
 
 <img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/69e8deb0-e767-4b48-ae14-5255ee26455d" />
 
+#Deployment on web-01,web-02 and loadbalancer
+
+![WhatsApp Image 2025-08-06 at 14 10 10_42fb6d4d](https://github.com/user-attachments/assets/42175416-1c05-4c99-a920-839cfcb56698)
+
+![WhatsApp Image 2025-08-06 at 13 58 29_825a1bf3](https://github.com/user-attachments/assets/795983aa-5c6a-4399-949b-a68526cf241a)
+
+#Testing loadbalancing
+
+curl http://localhost
 
 # Demo video
 
